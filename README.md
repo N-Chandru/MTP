@@ -2,4 +2,5 @@
 # BR2R
 Repo contains a BR2R algo implementation.
 # Matrix completion
-Matrix completion routine is implemented based on this [paper](https://stackoverflow.com/questions/62037623/how-to-create-inline-link-in-readme-md-in-the-azure-devops-git-repository)
+Matrix completion routine is implemented based on this [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6751420).
+The paper uses Unifying Nuclear Norm and Bilinear Factorization Approaches for Low-rank Matrix Decomposition
