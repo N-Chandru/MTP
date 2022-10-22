@@ -7,3 +7,4 @@ Matrix completion routine is implemented based on this [paper](https://ieeexplor
 The paper uses Unifying Nuclear Norm and Bilinear Factorization Approaches for Low-rank Matrix Decomposition
 # Result
 ![image][https://drive.google.com/file/d/1L26cWef8gga_o6xq77YB7cc8wgCSkd89/view?usp=sharing]
+![image][https://drive.google.com/file/d/1cvKWjRXvy5ovYnLlqNtLyH8My2JxcUTu/view?usp=sharing]
