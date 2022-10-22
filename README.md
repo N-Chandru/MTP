@@ -6,4 +6,4 @@ The real world dataset is taken from (https://github.com/danielkorzekwa/atpworld
 Matrix completion routine is implemented based on this [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6751420).
 The paper uses Unifying Nuclear Norm and Bilinear Factorization Approaches for Low-rank Matrix Decomposition
 # Result
-![alt image][https://drive.google.com/file/d/1L26cWef8gga_o6xq77YB7cc8wgCSkd89/view?usp=sharing]
+![image][https://drive.google.com/file/d/1L26cWef8gga_o6xq77YB7cc8wgCSkd89/view?usp=sharing]
